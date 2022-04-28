@@ -96,7 +96,7 @@ public class Story {
             ui.choice1.setText("Go south");
             ui.choice2.setText("");
             ui.choice3.setText("");
-            ui.choice4.setText("");
+            ui.choice4.setText("aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa");
 
             game.nextPosition1 = "north";
             game.nextPosition2 = "east";
